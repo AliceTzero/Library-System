@@ -36,6 +36,7 @@
 
     End Sub
 
+    
     Private Sub Button1_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
 
         payment = InputBox("Enter Payment Amount RM:")
