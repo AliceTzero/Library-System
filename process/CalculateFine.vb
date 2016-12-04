@@ -7,7 +7,6 @@
         totalDayOverdue.Enabled = False
     End Sub
 
-
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnCalculate.Click
         Dim Date1 As Date
         Dim Date2 As Date
@@ -19,7 +18,7 @@
         Date1 = txtReturnDate.Text
         Date2 = txtCurrentDate.Text
 
-
+        
         totalDays = DateDiff(DateInterval.Day, Date1, Date2)
         txtTotalDays.Text = totalDays.ToString
         totalOverdue = totalDays - 5
