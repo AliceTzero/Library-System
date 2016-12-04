@@ -49,7 +49,5 @@
             MessageBox.Show("Insufficient Money" & vbCrLf & "Require Rm: " & remainder, "", MessageBoxButtons.OK)
         End If
 
-
-        
     End Sub
 End Class
