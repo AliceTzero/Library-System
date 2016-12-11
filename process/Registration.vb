@@ -80,7 +80,6 @@ Public Class RegisterMember
 
 
 
-
     End Sub
 
 
