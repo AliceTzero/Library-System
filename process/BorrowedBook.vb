@@ -9,6 +9,7 @@ Public Class BorrowedBook
         UserPage.Show()
         Me.Hide()
 
+        
     End Sub
 
     Private Sub BorrowedBook_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
