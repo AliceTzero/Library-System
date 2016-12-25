@@ -1,0 +1,40 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,Other ID,Integration,Owned By,Owned By,Owned By,Comment,Comment,Comment,Task,Task Status,Task,Task Status
+3229761,"As a manager of library, I want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.",as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,,,,epic,,,"Dec 24, 2016",,,,"As a manager of library, I want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.",https://www.pivotaltracker.com/epic/show/3229761,,,,,,,,,,,,
+3229759,"As a user of library system, I want to use computerized library system so that I can use functions of library system easily.",as a user of library system i want to use computerized library system so that i can use functions of library system easily.,,,,epic,,,"Dec 24, 2016",,,,"As a user of library system, I want to use computerized library system so that I can use functions of library system easily.",https://www.pivotaltracker.com/epic/show/3229759,,,,,,,,,,,,
+136309697,Admin login,as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Dec 17, 2016","Dec 24, 2016",,Zhi Rou,"As a staff of library, I want to log in as admin so that I can use exclusive function for staff.",https://www.pivotaltracker.com/story/show/136309697,,,Chong Khuan Chen,eric,Yu Ke Quan,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/6db865eb458b225680b9b4c191535412f5f3d1b7
+
+[Finish #136309697] (Zhi Rou - Dec 17, 2016)","Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/e469bb9a77cf83035b4338b1e8ef736ae78549b9
+
+[Finish #136309697] (Zhi Rou - Dec 17, 2016)",,Admin login,not completed,Main admin page,not completed
+134977833,Check book list,as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,1,"Dec 19, 2016","Dec 25, 2016",feature,2,accepted,"Nov 26, 2016","Dec 24, 2016",,Chong Khuan Chen,"As a manager of a library, I want to check the book list and find out what books are not in the list so that I can buy and add in to the list",https://www.pivotaltracker.com/story/show/134977833,,,Yu Ke Quan,eric,Zhi Rou,,,,Search books,not completed,Add books,not completed
+134977857,Edit book details,as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,1,"Dec 19, 2016","Dec 25, 2016",feature,2,accepted,"Nov 26, 2016","Dec 24, 2016",,Yu Ke Quan,"As a staff, I want to be able to edit book details such the ISBN, book name, author and publish date because some of the book details were entered wrongly by other staff.",https://www.pivotaltracker.com/story/show/134977857,,,Chong Khuan Chen,eric,Zhi Rou,,,,Edit book details,not completed
+134977955,Borrow and Return Book,as a user of library system i want to use computerized library system so that i can use functions of library system easily.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 26, 2016","Dec 24, 2016",,Yu Ke Quan,"As a user, I want to borrow book that I want and return books after I've done reading",https://www.pivotaltracker.com/story/show/134977955,,,Chong Khuan Chen,eric,Zhi Rou,,,,Borrow books,not completed,Return books,not completed
+134977909,Login account,as a user of library system i want to use computerized library system so that i can use functions of library system easily.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 26, 2016","Dec 24, 2016",,Zhi Rou,"As a user, I want to login to an account to manage user profile, check books I've borrow so that I can return the book the before due date",https://www.pivotaltracker.com/story/show/134977909,,,Chong Khuan Chen,eric,Yu Ke Quan,,,,Login account,not completed
+135690585,Registration,as a user of library system i want to use computerized library system so that i can use functions of library system easily.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Dec 7, 2016","Dec 24, 2016",,Chong Khuan Chen,"As a user, I want to register as a member of the library so that I can start borrows books.",https://www.pivotaltracker.com/story/show/135690585,,,eric,Yu Ke Quan,Zhi Rou,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/b2b26a8047d8902c46599f051ed846bd3be3914e
+
+[Finish #135690585] (Zhi Rou - Dec 10, 2016)",,,Registration,not completed
+135468897,Calculate fine,as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,1,"Dec 19, 2016","Dec 25, 2016",feature,2,accepted,"Dec 3, 2016","Dec 24, 2016",,Zhi Rou,"As a staff of a library, I want to check the number of days of the late returns to calculate the total fine for late returns.",https://www.pivotaltracker.com/story/show/135468897,,,Chong Khuan Chen,Yu Ke Quan,eric,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/a3d0657972585ef4ce0cf8f98cde768dd39e6768
+
+[Finish #135468897] (Zhi Rou - Dec 3, 2016)",,,Calculate fine,not completed
+135689589,View borrowed book,as a user of library system i want to use computerized library system so that i can use functions of library system easily.,1,"Dec 19, 2016","Dec 25, 2016",feature,2,accepted,"Dec 7, 2016","Dec 24, 2016",,eric,"As a user, I want to be able to view the books that I have borrowed so I can find out what book I have borrowed.",https://www.pivotaltracker.com/story/show/135689589,,,Chong Khuan Chen,Zhi Rou,Yu Ke Quan,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/ebcb02deafdc35c295f6a1f079aba6a98d93d1de
+
+[Finish #135689589] (Zhi Rou - Dec 10, 2016)",,,View borrowed book,not completed
+136644601,Generate report,as a manager of library i want to upgrade library system from manual system to full fledge computerized system so that library staff can perform work efficiently.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Dec 24, 2016","Dec 25, 2016",,Chong Khuan Chen,"As a manager of library, I want to view library reports so that I can make future decision.  ",https://www.pivotaltracker.com/story/show/136644601,,,eric,Yu Ke Quan,Zhi Rou,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/419bc8d055e82f11e6ac071867658383250e222e
+
+[Finish #136644601] (Zhi Rou - Dec 24, 2016)",,,Generate report,not completed
+136644863,Edit personal information,as a user of library system i want to use computerized library system so that i can use functions of library system easily.,1,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Dec 24, 2016","Dec 25, 2016",,Yu Ke Quan,"As a user of library system, I want to edit personal information so that I can change my personal information.",https://www.pivotaltracker.com/story/show/136644863,,,Chong Khuan Chen,eric,Zhi Rou,"Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/de5166e2ebd1eeecf346049d91bc294afe4b1e6f
+
+[Finish #136644863] (Zhi Rou - Dec 24, 2016)","Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/468aef7a4749962d7b554b5944997596eeed318a
+
+[Finish #136644863] (Zhi Rou - Dec 24, 2016)","Commit by TEH ZHI ROU
+https://github.com/AliceTzero/Library-System/commit/1db8d52b9c6056bd32cca6fc458268390a184ef4
+
+[Finish #136644863] (Zhi Rou - Dec 24, 2016)",Edit peronal information,not completed,Main user page,not completed
